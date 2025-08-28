@@ -14,5 +14,4 @@
 Cada projeto está organizado em sua própria pasta, facilitando a navegação e a revisão do conteúdo. 
 Este repositório reflete a evolução no raciocínio lógico, organização de código e prática.
 
-![Representação Visual de C](https://static.vecteezy.com/system/resources/previews/048/332/147/non_2x/c-programming-icon-free-png.png)
-
+<img src="https://static.vecteezy.com/system/resources/previews/048/332/147/non_2x/c-programming-icon-free-png.png" alt="Representação Visual de C" width="200">
